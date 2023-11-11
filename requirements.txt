@@ -2,4 +2,4 @@ opencv-python
 numpy
 face-recognition
 cvzone
-dilib
+dlib
